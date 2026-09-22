@@ -1,2 +1,2 @@
 # T2T-LW
-The complete assembly and Population Analysis of Large White Pigs
+A complete diploid genome of the Large White pig reveals genetic variants underlying breed characteristics
